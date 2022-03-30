@@ -8,9 +8,10 @@ int main (){
     char mad;
     do 
     {
-    cout<<"                MINIMARKET               "<<endl;
-    cout<<"         	INDOJUNI    	        "<<endl;
-    cout<<"        Aplikasi kasir Minimarket        "<<endl;
+	cout<<"=========================================="<<endl;
+    cout<<"\t\tMINIMARKET"<<endl;
+    cout<<" \t\t INDOJUNI"<<endl;
+    cout<<"\tAplikasi kasir Minimarket"<<endl;
     cout<<"============================================"<<endl;
     cout<<""<<endl;
     cout<<"masukkan uang yang anda punya : ";
